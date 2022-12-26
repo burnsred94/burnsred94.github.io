@@ -1,0 +1,13 @@
+# Blender 3.3.1 MTL File: 'COIN animation prefinal.blend'
+# www.blender.org
+
+newmtl Main_red
+Ns 422.500008
+Ka 0.013636 0.013636 0.013636
+Kd 0.783538 0.000000 0.061246
+Ks 0.159091 0.159091 0.159091
+Ke 0.000000 0.000000 0.000000
+Ni 1.300000
+d 1.000000
+illum 3
+map_Kd area material.png
